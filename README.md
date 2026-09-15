@@ -235,4 +235,4 @@ This repository serves as the official landing page for **AVIAddXSubs**. The sof
 **Get the most recent version of AVIAddXSubs today!**
 
 ---
-**Last updated:** 2026-09-15 10:58:16 UTC
+**Last updated:** 2026-09-15 15:29:26 UTC
